@@ -30,7 +30,7 @@ QA Tester (Manual) enfocado en flujos de pagos/facturación e integraciones API.
 - [TEST‑CASE.md](templates/TEST-CASE.md) — pasos, datos de prueba y resultado esperado  
 
 ## Contacto
-- LinkedIn: [https://linkedin.com/in/manuelmn19](url)
-- Email: [manuelmaciasn19@gmail.com](mail)
+- LinkedIn: [https://linkedin.com/in/manuelmn19](https://linkedin.com/in/manuelmn19)
+- Email: [manuelmaciasn19@gmail.com](mailto:manuelmaciasn19@gmail.com)
 
 *Última actualización: 2025-10-14*
